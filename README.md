@@ -20,4 +20,4 @@ Spreekuur.ai is online als onderzoeksomgeving voor AI-toepassingen in de huisart
 
 ## Contact
 
-[heydoc.nl](https://heydoc.nl)
+[heydoc.nl](https://heydoc.nl) [sprekuur.ai](spreekuur.ai)
